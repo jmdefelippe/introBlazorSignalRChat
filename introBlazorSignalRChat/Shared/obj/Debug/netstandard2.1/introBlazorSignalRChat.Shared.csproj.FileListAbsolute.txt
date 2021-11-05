@@ -1,0 +1,10 @@
+C:\Users\Joan\Desktop\Programación\proyectosC#\introBlazorSignalRChat\introBlazorSignalRChat\Shared\bin\Debug\netstandard2.1\introBlazorSignalRChat.Shared.deps.json
+C:\Users\Joan\Desktop\Programación\proyectosC#\introBlazorSignalRChat\introBlazorSignalRChat\Shared\bin\Debug\netstandard2.1\introBlazorSignalRChat.Shared.dll
+C:\Users\Joan\Desktop\Programación\proyectosC#\introBlazorSignalRChat\introBlazorSignalRChat\Shared\bin\Debug\netstandard2.1\introBlazorSignalRChat.Shared.pdb
+C:\Users\Joan\Desktop\Programación\proyectosC#\introBlazorSignalRChat\introBlazorSignalRChat\Shared\obj\Debug\netstandard2.1\introBlazorSignalRChat.Shared.csproj.AssemblyReference.cache
+C:\Users\Joan\Desktop\Programación\proyectosC#\introBlazorSignalRChat\introBlazorSignalRChat\Shared\obj\Debug\netstandard2.1\introBlazorSignalRChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Desktop\Programación\proyectosC#\introBlazorSignalRChat\introBlazorSignalRChat\Shared\obj\Debug\netstandard2.1\introBlazorSignalRChat.Shared.AssemblyInfoInputs.cache
+C:\Users\Joan\Desktop\Programación\proyectosC#\introBlazorSignalRChat\introBlazorSignalRChat\Shared\obj\Debug\netstandard2.1\introBlazorSignalRChat.Shared.AssemblyInfo.cs
+C:\Users\Joan\Desktop\Programación\proyectosC#\introBlazorSignalRChat\introBlazorSignalRChat\Shared\obj\Debug\netstandard2.1\introBlazorSignalRChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Desktop\Programación\proyectosC#\introBlazorSignalRChat\introBlazorSignalRChat\Shared\obj\Debug\netstandard2.1\introBlazorSignalRChat.Shared.dll
+C:\Users\Joan\Desktop\Programación\proyectosC#\introBlazorSignalRChat\introBlazorSignalRChat\Shared\obj\Debug\netstandard2.1\introBlazorSignalRChat.Shared.pdb
